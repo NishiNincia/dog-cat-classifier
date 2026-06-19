@@ -1,1 +1,1 @@
-# critical-minerals-forecasting
+# dof-cat-classifier
